@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="RotMG-Loader">
+    <configurations>
+      <configuration name="RotMG-Loader" target-platform="Desktop" pure-as="true" main-class="RotMGLoader" output-file="RotMGLoader.swf" output-folder="$MODULE_DIR$/out/production/RotMG-Loader">
+        <dependencies target-player="14.0">
+          <sdk name="flex (12)" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop package-file-name="RotMGLoader" />
+        <packaging-android />
+        <packaging-ios />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="flex (12)" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
